@@ -1,0 +1,4 @@
+1. game.py:      tried a basic implementation with python to understand the flow of game.
+2. twoPlayer.pl: created a simple replica of the above in prolog (human vs human)         
+3. onePlayer:    tried human vs computer with a bit of AI (i think so)
+4.               merge any one of the above two with python gui
